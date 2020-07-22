@@ -1,16 +1,22 @@
 ### Hi there 👋
+Under construction....
 
-<!--
-**LauraJaime8/LauraJaime8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+## 🧐 About me
+- 🔭 I’m currently working on Blipol HR Analytics.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she / her
 - ⚡ Fun fact: ...
--->
+
+## ⚡ Technologies
+- Front-end development using **jQuery, VanillaJS**
+- Backend development using **Ruby on Rails**
+- Architectural design for **No Relational Database Management Systems** like **MongoDB**
+- Robust full-stack system design implementation
+- Creating scalable cloud architecture using **AWS**
+
+## 📫 Contact Me
+- LinkedIn - [Laura Jaime](https://www.linkedin.com/in/laura-jaime/)
