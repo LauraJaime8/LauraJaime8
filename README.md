@@ -12,11 +12,11 @@ Under construction....
 - ⚡ Fun fact: ...
 
 ## ⚡ Technologies
-- Front-end development using **jQuery, VanillaJS**
-- Backend development using **Ruby on Rails**
-- Architectural design for **No Relational Database Management Systems** like **MongoDB**
-- Robust full-stack system design implementation
-- Creating scalable cloud architecture using **AWS**
+- Front-end development using **jQuery, JavaScript**.
+- Backend development using **Ruby on Rails, Python**.
+- Architectural design for **NoSQL** like **MongoDB**.
+- Robust full-stack system design implementation.
+- Creating scalable cloud architecture using **AWS**.
 
 ## 📫 Contact Me
 - LinkedIn - [Laura Jaime](https://www.linkedin.com/in/laura-jaime/)
