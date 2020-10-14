@@ -1,22 +1,14 @@
 ### Hi there 👋
-Under construction....
 
 ## 🧐 About me
 - 🔭 I’m currently working on Blipol HR Analytics.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she / her
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning **React**
+- 📫 How to reach me: laurajaimev8@gmail.com
 
 ## ⚡ Technologies
 - Front-end development using **jQuery, JavaScript**.
-- Backend development using **Ruby on Rails, Python**.
+- Backend development using **Ruby on Rails, Python, Flask**.
 - Architectural design for **NoSQL** like **MongoDB**.
-- Robust full-stack system design implementation.
-- Creating scalable cloud architecture using **AWS**.
 
 ## 📫 Contact Me
 - LinkedIn - [Laura Jaime](https://www.linkedin.com/in/laura-jaime/)
