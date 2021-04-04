@@ -8,5 +8,3 @@
 - Backend development using **Ruby on Rails, Python, Flask**.
 - Architectural design for **NoSQL** like **MongoDB**.
 
-## 📫 Contact Me
-- LinkedIn - [Laura Jaime](https://www.linkedin.com/in/laura-jaime/)
